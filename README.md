@@ -1,0 +1,2 @@
+# funnyproject
+school work
